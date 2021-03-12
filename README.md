@@ -23,3 +23,5 @@ function sendEmails() {
 }
 ```
 <br> And then call this in another script or trigger to run it.
+
+For explaination click [this](https://github.com/fikrim2204/new-row-email-google-sheet/blob/main/SendingEmail.gs)
