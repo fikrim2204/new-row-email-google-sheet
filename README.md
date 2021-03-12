@@ -28,5 +28,5 @@ function sendEmails() {
 <br> And then call this in another script or trigger to run it.
 
 Result : <br>
-<img src="https://github.com/fikrim2204/new-row-email-google-sheet/blob/main/img/IMG_2489.PNG" width=200>
+<img src="https://github.com/fikrim2204/new-row-email-google-sheet/blob/main/img/IMG_2489.PNG" width=200> <br>
 For explanation click [this](https://github.com/fikrim2204/new-row-email-google-sheet/blob/main/SendingEmail.gs)
