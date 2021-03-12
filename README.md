@@ -15,7 +15,7 @@ function sendEmails() {
   var value = dataRange.getValues();
   for (var row in value) {
     for (var col in value[row]) {
-      var emailAddress = "maulsana25@gmail.com";
+      var emailAddress = "placeyouremailhere";
       var subject = value[0][3];
       var message = "Dari : " + value[0][1] 
                     + "\n" + "Email : " + value[0][2]
